@@ -1,0 +1,22 @@
+
+The most likely defects found in internet banking can vary, but some common issues include:
+
+Login Problems: Difficulties in logging into the internet banking platform, such as incorrect credentials, password reset issues, or account lockouts.
+
+Transaction Errors: Errors during financial transactions, including failed transactions, duplicate transactions, or incorrect debits/credits.
+
+Display Issues: Problems with the user interface, such as missing or incorrect data, layout inconsistencies, or display errors.
+
+Functionality Glitches: Malfunctioning features, such as bill payment, fund transfer, or account management options not working as expected.
+
+Security Vulnerabilities: Potential security risks like inadequate encryption, account information leaks, or weak authentication methods.
+
+Compatibility Problems: Internet banking may not work properly on certain browsers, operating systems, or devices.
+
+Performance Issues: Slow loading times, server timeouts, or overall sluggishness affecting the user experience.
+
+Session Timeouts: Users may experience frequent and unexpected session timeouts, requiring them to log in again repeatedly.
+
+Notification and Alerts Issues: Failure to receive important notifications, alerts, or transaction confirmation emails.
+
+Mobile Banking App Problems: Issues specific to the mobile banking app, such as crashes, frozen screens, or login problems.
